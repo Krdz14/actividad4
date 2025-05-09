@@ -8,7 +8,8 @@ Exercises
 4. How could you create a computer player?
 """
 
-from turtle import *
+from turtle import up, down, goto, circle, setup, hideturtle, tracer, \
+    update, onscreenclick, done
 
 from freegames import line
 
